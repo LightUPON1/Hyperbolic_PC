@@ -167,3 +167,11 @@ models/checkpoint/
 *.bin
 events.out.tfevents.*
 wandb/
+*.pt
+!shapenet_dict.pt
+!shapenet_dict_part.pt
+*.onnx
+*.h5
+*.o
+runs/
+Dataset/
