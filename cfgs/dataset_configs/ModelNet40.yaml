@@ -1,0 +1,7 @@
+NAME: ModelNet
+#DATA_PATH: /DataDisk1/home.old/ubuntu/CodeSpace_lyj/Datasets/ModelNet/modelnet40_normal_resampled 
+DATA_PATH: /home/lyj/CodeSpace/Dataset/ModelNet/modelnet40_normal_resampled
+#DATA_PATH: data/ModelNet/modelnet40_normal_resampled
+N_POINTS: 8192
+NUM_CATEGORY: 40
+USE_NORMALS: FALSE
